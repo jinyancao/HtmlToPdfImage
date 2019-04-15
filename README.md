@@ -1,0 +1,2 @@
+# HtmlToPdfImage
+.netcore htmltopdf htmltoimage
